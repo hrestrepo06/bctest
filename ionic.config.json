@@ -1,0 +1,7 @@
+{
+  "name": "bcTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
